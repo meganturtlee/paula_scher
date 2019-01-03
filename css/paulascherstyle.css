@@ -62,7 +62,44 @@ header h2 {
     margin-bottom: 2em;
     color: #333
 }
+/*------------ PAULA SCHER NAVIGATION --------------*/
+.static{
+    position: absolute;
+    top: 70px;
+    left: 0;
+    height: 100vh
+    opacity: 0.1
+}
 
+.who-img{
+    position: absolute;
+    left: 0;
+    top: 70px;
+}
+
+.early-img{
+    position: absolute;
+    left: 0;
+    top: 70px;
+}
+
+.pentagram-img{
+    position: absolute;
+    left: 0;
+    top: 70px;
+}
+
+.public-img{
+    position: absolute;
+    left: 0;
+    top: 70px;
+}
+
+.public-img{
+    position: absolute;
+    left: 0;
+    top: 70px;
+}
 /*--------BLOCKQUOTE----------*/
 
 blockquote {
@@ -87,6 +124,7 @@ nav {
     background-color: rgba(192, 192, 192, 0.8);
     padding: 1em 0;
     font-size: 0.75em
+    
 }
 
 nav ul { 
