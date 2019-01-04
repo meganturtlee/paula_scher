@@ -2,4 +2,5 @@
 
 ### Friday 4th January 
 
-[Final Website](file:///Users/meganturtle/Documents/GitHub/paula_scher/paulascher.html)
+[Final Website](https://meganturtlee.github.io/paula_scher/paulascher.html)
+Final website version
